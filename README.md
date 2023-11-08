@@ -5,7 +5,7 @@ Yandex.Games: [ссылка](https://yandex.ru/games/app/262912?draft=true&lang=
 Давний проект, который прошел со мной разработку, интеграцию рекламных SDK, публикацию в Google Play и WebGL сборку для Яндекс.Игры. 77+ тысяч уникальных игроков.
 
 ## Block Crash
-Yandex.Games: [ссылка](https://yandex.ru/games/app/269775?draft=true&lang=ru)
+Yandex.Games: [ссылка](https://yandex.ru/games/app/269775?draft=true&lang=ru =100x20)
 
 В разработке. более крупная игра. Пока что сделан упор на визуальный стиль "змейки" и ощущение от игры.
 
