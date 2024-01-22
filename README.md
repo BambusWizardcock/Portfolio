@@ -5,17 +5,22 @@ Yandex.Games: [ссылка](https://yandex.ru/games/app/262912?draft=true&lang=
 Давний проект, который прошел со мной разработку, интеграцию рекламных SDK, публикацию в Google Play и WebGL сборку для Яндекс.Игры. 77+ тысяч уникальных игроков.
 
 ## Block Crash
-Yandex.Games: [ссылка](https://yandex.ru/games/app/269775?draft=true&lang=ru =100x20)
+Yandex.Games: [ссылка](https://yandex.ru/games/app/269775?draft=true&lang=ru=100x20)
 
 В разработке. более крупная игра. Пока что сделан упор на визуальный стиль "змейки" и ощущение от игры.
 
-Управление: Зажать чтобы двигать змейкой.\
+<details>
+  <summary>Управление в игре</summary>
+  
+Зажать чтобы двигать змейкой.\
 Дебаг кнопки:
 * 1 - Добавить 50 очков во время игры
 * 2 - Добавить 1000 монет
 * 3 - Добавить 1 единицы здоровья
 * 4 - Отнять 1 единицы здоровья
 * 5 - Отнять 3 единицы здоровья
+  
+</details>
 
 ## Cat Tennis Club: All Stars
 Yandex.Games: [ссылка](https://yandex.ru/games/app/269896?draft=true&lang=ru)
